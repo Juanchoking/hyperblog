@@ -3,3 +3,7 @@ Esta es la Historia de Juan Figueredo, en este momento
 aprendiendo Git y Github
 
 Pruebas de 1er commit
+
+Pruebas de 2do commit
+
+3er commit, a probar el reset
